@@ -1,6 +1,6 @@
 _Swift in April, 2024._
 - Breaking through challenges using Swift.
-- Coding while drinking iced Americano.
+- Coding while drinking iced Vanilla Latte.
 - And I'm looking at pictures of dogs and thinking they're cute.
 
 <!--
