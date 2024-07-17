@@ -1,7 +1,11 @@
+## Hi there 👋
+
+<!--
 _Swift in July, 2024._
 - Breaking through challenges using Swift.
 - Coding while drinking iced americano.
 - And I'm looking at pictures of dogs and thinking they're cute.
+-->
 
 <!--
 **loeyknahkrapkh/loeyknahkrapkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
