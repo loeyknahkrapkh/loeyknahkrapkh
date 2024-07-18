@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 _Swift in July, 2024._
