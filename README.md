@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeyknahkrapkh&layout=compact)](https://github.com/loeyknahkrapkh/github-readme-stats)
+
 <!--
 _Swift in July, 2024._
 - Breaking through challenges using Swift.
